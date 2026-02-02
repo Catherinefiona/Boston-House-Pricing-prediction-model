@@ -1,4 +1,3 @@
-# mat-271-copy-1
 House Price Prediction Using Linear Regression
 Project Overview
 
